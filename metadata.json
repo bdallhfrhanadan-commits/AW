@@ -1,0 +1,6 @@
+{
+  "name": "منظومة سهم - المستجيب الأول",
+  "description": "نظام سهم المتقدم للمستجيب الأول للطوارئ الطبية والتتبع الذكي للمسعفين والأطباء والمرضى بقطر",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
